@@ -1,0 +1,76 @@
+#h {
+    position: absolute;
+    top: 1%;
+    left: 20%;
+    font-size: 290%;
+}
+
+#uh {
+    position: absolute;
+    top: 2%;
+    left: 13%;
+    font-size: 190%;
+}
+
+.div {
+    position: absolute;
+    top: 18%;
+    right: 35%;
+    width: 30%;
+    height: 50%;
+    text-align: center;
+    font-weight: 900;
+    background-color: antiquewhite;
+    border: .5px solid black;
+    border-radius: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+#name {
+    position: absolute;
+    top: 30%;
+    left: 22%;
+    width: 55%;
+    height: 8%;
+    border: 2px solid black;
+    font-size: 80%;
+    font-weight: bold;
+    text-align: center;
+}
+
+#username {
+    position: absolute;
+    top: 45%;
+    left: 22%;
+    width: 55%;
+    height: 8%;
+    border: 2px solid black;
+    font-size: 80%;
+    font-weight: bold;
+    text-align: center;
+}
+
+#pass {
+    position: absolute;
+    top: 60%;
+    left: 22%;
+    width: 55%;
+    height: 8%;
+    border: 2px solid black;
+    font-size: 80%;
+    font-weight: bold;
+    text-align: center;
+}
+
+#btn {
+    position: absolute;
+    top: 85%;
+    left: 40%;
+    width: 20%;
+    font-size: 80%;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 15%;
+}
