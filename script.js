@@ -1,4 +1,5 @@
 const btn = document.getElementById("btn");
+alert("Your Password will be in this format -- username@123");
 
 btn.addEventListener("click", function(){
     const name = document.getElementById("name").value
